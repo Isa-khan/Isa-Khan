@@ -29,13 +29,14 @@ I'm Isa, a passionate geomatics student at the University of Waterloo 🎓, with
 <img src="https://img.shields.io/badge/-CSS-0000FF?style=for-the-badge&logo=css3" />
 <img src="https://img.shields.io/badge/-Racket-7219B7?style=for-the-badge&logo=racket" />
 <img src="https://img.shields.io/badge/-SQL-FFA500?style=for-the-badge&logo=sql" />
-<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/React.js-9fedeb?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS Badge"/>
 <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js" />
 <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express" />
 <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase" />
 <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql" />
 <img src="https://img.shields.io/badge/-PyGame-FFD700?style=for-the-badge&logo=python" />
 <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman" />
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
 <!--END_SECTION:colourise-->
 
  
