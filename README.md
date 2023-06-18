@@ -23,8 +23,8 @@ I'm Isa, a passionate geomatics student at the University of Waterloo 🎓, with
 
 <!--START_SECTION:colourise-->
 <p align=center>
-<img src="https://img.shields.io/badge/-Python-FF0000?style=for-the-badge&logo=python" />
-<img src="https://img.shields.io/badge/-JavaScript-FFFF00?style=for-the-badge&logo=javascript" />
+ <img src="https://img.shields.io/badge/Python-27467a?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+<img src="https://img.shields.io/badge/Javascript-f5ed56?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript Badge"/>
 <img src="https://img.shields.io/badge/-HTML5-007FFF?style=for-the-badge&logo=html5" />
 <img src="https://img.shields.io/badge/-CSS-0000FF?style=for-the-badge&logo=css3" />
 <img src="https://img.shields.io/badge/-Racket-7219B7?style=for-the-badge&logo=racket" />
