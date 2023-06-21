@@ -25,7 +25,7 @@ I'm Isa, a passionate Geomatics student at the University of Waterloo 🎓, with
 <p align=center>
  <img src="https://img.shields.io/badge/Python-27467a?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
 <img src="https://img.shields.io/badge/Javascript-f5ed56?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript Badge"/>
-<img src="https://img.shields.io/badge/-HTML5-007FFF?style=for-the-badge&logo=html5" />
+<img src="https://img.shields.io/badge/HTML5-f23e11?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
 <img src="https://img.shields.io/badge/-CSS-0000FF?style=for-the-badge&logo=css3" />
 <img src="https://img.shields.io/badge/-Racket-7219B7?style=for-the-badge&logo=racket" />
 <img src="https://img.shields.io/badge/-SQL-FFA500?style=for-the-badge&logo=sql" />
@@ -33,10 +33,14 @@ I'm Isa, a passionate Geomatics student at the University of Waterloo 🎓, with
 <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js" />
 <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express" />
 <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase" />
-<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql" />
+<img src="https://img.shields.io/badge/-PostgreSQL-ADD8E6?style=for-the-badge&logo=postgresql" alt="PostgreSQL Badge with Light Blue Background"/>
 <img src="https://img.shields.io/badge/-PyGame-FFD700?style=for-the-badge&logo=python" />
 <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman" />
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+ <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
+ <img src="https://img.shields.io/badge/Visual%20Studio%20Code-2ba3ed?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSC Badge"/>
+
+
 <!--END_SECTION:colourise-->
 
  
