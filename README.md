@@ -29,10 +29,10 @@ Hi, I'm Isa, a passionate Geomatics student at the University of Waterloo 🎓, 
 <img src="https://img.shields.io/badge/-CSS-0000FF?style=for-the-badge&logo=css3" />
 <img src="https://img.shields.io/badge/-Racket-7219B7?style=for-the-badge&logo=racket" />
 <img src="https://img.shields.io/badge/-SQL-FFA500?style=for-the-badge&logo=sql" />
-<img src="https://img.shields.io/badge/React.js-9fedeb?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS Badge"/>
 <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js" />
 <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express" />
-<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase" />
+<img src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular" alt="Angular Badge"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
 <img src="https://img.shields.io/badge/-PostgreSQL-ADD8E6?style=for-the-badge&logo=postgresql" alt="PostgreSQL Badge with Light Blue Background"/>
 <img src="https://img.shields.io/badge/-PyGame-FFD700?style=for-the-badge&logo=python" />
 <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman" />
