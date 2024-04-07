@@ -25,27 +25,29 @@ I'm fascinated by the intersection of geospatial data science and programming. I
 
 Looking forward to exploring the exciting possibilities where geomatics, data-science, software development, and cybersecurity converge! ⌨️
 
-<h3> 👨‍💻 Languages I use</h3>
+<h3> 👨‍💻 Languages and Technologies I use</h3>
 
 <!--START_SECTION:colourise-->
 <p align=center>
- <img src="https://img.shields.io/badge/Python-27467a?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-<img src="https://img.shields.io/badge/Javascript-f5ed56?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript Badge"/>
-<img src="https://img.shields.io/badge/HTML5-f23e11?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
-<img src="https://img.shields.io/badge/-CSS-0000FF?style=for-the-badge&logo=css3" />
-<img src="https://img.shields.io/badge/-Racket-7219B7?style=for-the-badge&logo=racket" />
-<img src="https://img.shields.io/badge/-SQL-FFA500?style=for-the-badge&logo=sql" />
-<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js" />
-<img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express" />
-<img src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular" alt="Angular Badge"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
-<img src="https://img.shields.io/badge/-PostgreSQL-ADD8E6?style=for-the-badge&logo=postgresql" alt="PostgreSQL Badge with Light Blue Background"/>
-<img src="https://img.shields.io/badge/-PyGame-FFD700?style=for-the-badge&logo=python" />
-<img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman" />
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
- <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
- <img src="https://img.shields.io/badge/Visual%20Studio%20Code-2ba3ed?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSC Badge"/>
+ 
+### Languages
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
+- ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
+### Tools/Frameworks/Libraries
+- ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) 
+- ![Databricks](https://img.shields.io/badge/-Databricks-1386FF?style=flat-square&logo=databricks&logoColor=white) 
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+- ![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+- ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+- ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+- ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+- ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+- ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
 <!--END_SECTION:colourise-->
 
