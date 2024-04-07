@@ -17,15 +17,13 @@ Here are some ideas to get you started:
 
 
 
-Hi, I'm Isa, 
+I'm Isa, 
 
-I’m a passionate Geomatics student at the University of Waterloo, with a keen interest in combining geomatics with software engineering. 🎓
+I’m a passionate Geomatics student at the University of Waterloo, with a keen interest in software engineering and data science. 🎓
 
- I'm fascinated by the intersection of geospatial data science and programming. I also have a profound interest in the context of networks, data science and cybersecurity. 🔐
+I'm fascinated by the intersection of geospatial data science and programming. I also have a profound interest in the context of networks and cybersecurity. 🔐
 
-Alongside my studies, I'm also enthusiastic about web development and consider myself a full-stack developer. I enjoy leveraging my skills to build interactive and visually appealing web applications. 👾
-
-Looking forward to exploring the exciting possibilities where geomatics, data-science, GIS, software development, and cybersecurity converge! ⌨️
+Looking forward to exploring the exciting possibilities where geomatics, data-science, software development, and cybersecurity converge! ⌨️
 
 <h3> 👨‍💻 Languages I use</h3>
 
