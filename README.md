@@ -16,14 +16,13 @@ Here are some ideas to get you started:
 -->
 
 
+I'm Isa,
 
-I'm Isa, 
+I’m a passionate Geomatics student at the University of Waterloo, with a strong focus on software engineering and data science. Currently, I’m honing my skills as a Software Engineering Intern at OpenText. 🎓
 
-I’m a passionate Geomatics student at the University of Waterloo, with a keen interest in software engineering and data science. 🎓
+I'm deeply interested in the intersection of data science, programming, and cybersecurity. 🔐
 
-I'm fascinated by the intersection of geospatial data science and programming. I also have a profound interest in the context of networks and cybersecurity. 🔐
-
-Looking forward to exploring the exciting possibilities where geomatics, data-science, software development, and cybersecurity converge! ⌨️
+I'm excited to explore and contribute to the innovative possibilities where data science, software development, and cybersecurity converge! ⌨️
 
 <h3> 👨‍💻 Languages and Technologies I use</h3>
 
