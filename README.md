@@ -20,7 +20,7 @@ I'm Isa,
 
 I’m a passionate Geomatics student at the University of Waterloo, with a strong focus on software engineering and data science. Currently, I’m honing my skills as a Software Engineering Intern at OpenText. 🎓
 
-I'm deeply interested in the intersection of data science, programming, and cybersecurity. 🔐
+I'm deeply interested in data science, software engineering, and cybersecurity. 🔐
 
 I'm excited to explore and contribute to the innovative possibilities where data science, software development, and cybersecurity converge! ⌨️
 
