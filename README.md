@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I'm Isa,
 
-I’m a passionate Geomatics student at the University of Waterloo, with a strong focus on software engineering and data science. Currently, I’m honing my skills as a Software Engineering Intern at OpenText. 🎓
+I’m a passionate Geomatics student at the University of Waterloo, with a strong focus on software engineering and data science. Currently, I’m honing my skills as a Software Engineer Intern at OpenText. 🎓
 
 I'm deeply interested in data science, software engineering, and cybersecurity. 🔐
 
