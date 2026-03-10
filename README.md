@@ -4,16 +4,6 @@ Computer Science & Mathematics (Geospatial) student at the **University of Water
 
 I'm interested in building **scalable systems**, **data platforms**, and **machine learning infrastructure**.
 
-Currently focused on:
-
-- Data Engineering  
-- Distributed Systems  
-- Machine Learning  
-- Backend Development  
-- Cloud Infrastructure  
-
-I enjoy building systems that process **large-scale data**, power **ML workflows**, and support **high-performance backend applications**.
-
 ---
 
 ## 🧠 What I Work With
