@@ -1,6 +1,12 @@
 # Hi, I'm Isa 👋
 
-Computer Science & Mathematics (Geospatial) student at the **University of Waterloo**.
+a student at the **University of Waterloo**.
+
+I'm interested in building **scalable systems**, **data platforms**, and **machine learning infrastructure**.
+
+I enjoy working on problems involving **large-scale data processing, backend architecture, and distributed systems**. 
+
+---
 
 I'm interested in building **scalable systems**, **data platforms**, and **machine learning infrastructure**.
 
